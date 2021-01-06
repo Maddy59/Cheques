@@ -1,7 +1,7 @@
 Initialisation à la programmation avec JAVA 
 *******************************************
 Exercice réalisé dans le cadre de ma formation Développeur Web/Web mobile avec ENI Ecole Informatique  
-Fait en novembre 2019
+Novembre 2020  
 *******************************************
 Les fondamentaux du langage JAVA   
 TP Statistiques chèques   
